@@ -49,8 +49,7 @@
 }
 .b4 {
   background: red;
-  flex-basis: 165px;
-  flex-grow: 1;
+  flex-grow: 2;
   padding: 50px;
 }
 .b5 {
@@ -59,15 +58,13 @@
   padding: 50px;
 }
 .b6 {
-  flex-basis: 165px;
   padding: 50px;
-  flex-grow: 1;
+  flex-grow: 2;
   background: red;
 }
 .c1 {
-  flex-basis: 165px;
   padding: 50px;
-  flex-grow: 1;
+  flex-grow: 3;
   background-color: red;
 }
 .c2 {
@@ -76,8 +73,7 @@
   background-color: #2d72ba;
 }
 .c3 {
-  flex-basis: 165px;
   padding: 50px;
-  flex-grow: 1;
+  flex-grow: 3;
   background-color: red;
 }
